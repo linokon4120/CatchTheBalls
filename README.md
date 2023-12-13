@@ -5,7 +5,7 @@ This is my first repository on Github using p5.js sketch. The game will start on
 
 p5.js editor for this code: https://editor.p5js.org/linokon4120/sketches/5fMk1_OSE
 
-Github Page: https://github.com/linokon4120/CatchTheBalls
+Github Page:  https://linokon4120.github.io/CatchTheBalls/
 
 Screenshot of the interactive animation this code generates:
 
